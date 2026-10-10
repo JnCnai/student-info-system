@@ -2,6 +2,10 @@
 
 A robust, cloud-ready Student Information System built in Python with a clean separation of concerns, persistent JSON data storage, comprehensive logging, and full CRUD capabilities.
 
+## Demo
+
+![Student Information System Demo](assets/demo.gif)
+
 ## Features Implemented
 
 - **Complete CRUD Operations:** 
