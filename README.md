@@ -25,12 +25,12 @@ student-info-system/
 ├── src/
 │   ├── models/
 │   │   └── student.py
-│   ├── services/
-│   │   └── student_service.py
-│   └── main.py
+│   └── services/
+│       └── student_service.py
 ├── data/
 │   └── students.json
 ├── logs/
 │   └── app.log
+├── main.py
 └── README.md
 ```
