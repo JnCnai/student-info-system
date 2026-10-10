@@ -16,6 +16,7 @@ A robust, cloud-ready Student Information System built in Python with a clean se
 
 ## Project Structure
 
+```text
 student-info-system/
 ├── src/
 │   ├── models/
@@ -28,3 +29,4 @@ student-info-system/
 ├── logs/
 │   └── app.log
 └── README.md
+```
